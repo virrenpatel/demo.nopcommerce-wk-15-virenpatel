@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MyAccount Test"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="3.101">
+  <properties />
+  
+  
+            <testcase name="verifyUserShouldNavigateToComputer" time="1.209" classname="com.nopcommerce.demo.testsuite.HomePageTest" />
+                <testcase name="verifyUserShouldNavigateToApparel" time="0.711" classname="com.nopcommerce.demo.testsuite.HomePageTest" />
+                <testcase name="verifyUserShouldNavigateToElectronics" time="1.181" classname="com.nopcommerce.demo.testsuite.HomePageTest" />
+      
+</testsuite>

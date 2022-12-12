@@ -1,0 +1,1038 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+    <line>
+      <![CDATA[clickOnComputer[[ChromeDriver: chrome on WINDOWS (721835345db93aab9b340beb0a939030)] -> xpath: //a[@href='/computers']]]]>
+    </line>
+    <line>
+      <![CDATA[clickOnDesktop[[ChromeDriver: chrome on WINDOWS (721835345db93aab9b340beb0a939030)] -> xpath: //h2[@class='title']//a]]]>
+    </line>
+    <line>
+      <![CDATA[Click to see screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\viren\IdeaProjects\demo.nopcommerce-wk-15-virenpatel/test-output/html/verifyProductArrangeInAlphaBaticalOrderMon_Dec_12_22_42_49_GMT_2022.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[Click to see screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\viren\IdeaProjects\demo.nopcommerce-wk-15-virenpatel/test-output/html/verifyProductArrangeInAlphaBaticalOrderMon_Dec_12_22_42_50_GMT_2022.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[clickOnComputer[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //a[@href='/computers']]]]>
+    </line>
+    <line>
+      <![CDATA[clickOnDesktop[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //h2[@class='title']//a]]]>
+    </line>
+    <line>
+      <![CDATA[getSelectByValue[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //select[@name='products-orderby']]]]>
+    </line>
+    <line>
+      <![CDATA[getVerifyBuildYourOwn[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //h1[contains(text(),'Build your own computer')]]]]>
+    </line>
+    <line>
+      <![CDATA[selectProcessorByValue[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //select[@id='product_attribute_1']]]]>
+    </line>
+    <line>
+      <![CDATA[selectRamByValue[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //select[@id='product_attribute_2']]]]>
+    </line>
+    <line>
+      <![CDATA[clickOnHDD400GB[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //label[text()='400 GB [+$100.00]']]]]>
+    </line>
+    <line>
+      <![CDATA[clickOnOsVistaPremium[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //label[text()='Vista Premium [+$60.00]']]]]>
+    </line>
+    <line>
+      <![CDATA[clickOnSoftwareTotalCommander[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //input[@id='product_attribute_5_12']]]]>
+    </line>
+    <line>
+      <![CDATA[clickOnAddToCartButton[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //button[@id='add-to-cart-button-1']]]]>
+    </line>
+    <line>
+      <![CDATA[verifyCaryMessage[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //body/div[@id='bar-notification']/div[1]/p[1]]]]>
+    </line>
+    <line>
+      <![CDATA[closeMessageBar[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //body/div[@id='bar-notification']/div[1]/span[1]]]]>
+    </line>
+    <line>
+      <![CDATA[mouseHoverOnElementShoppingCart[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //span[contains(text(),'Shopping cart')]]]]>
+    </line>
+    <line>
+      <![CDATA[clickOnGoToCart[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //button[@class='button-1 cart-button']]]]>
+    </line>
+    <line>
+      <![CDATA[sendTextToQuantityField[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //input[@value='1']]]]>
+    </line>
+    <line>
+      <![CDATA[clickOnUpdateShoppingCartButton[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //button[@id='updatecart']]]]>
+    </line>
+    <line>
+      <![CDATA[clickOnCheckBoxIAgreeWithTermsAndCondition[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //input[@id='termsofservice']]]]>
+    </line>
+    <line>
+      <![CDATA[clickOnCheckOutButton[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //button[@id='checkout']]]]>
+    </line>
+    <line>
+      <![CDATA[clickOnCheckOutAsGuest[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //button[contains(text(),'Checkout as Guest')]]]]>
+    </line>
+    <line>
+      <![CDATA[sendTextToFirstNameFieldManan[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> id: BillingNewAddress_FirstName]]]>
+    </line>
+    <line>
+      <![CDATA[sendTextToLastNameFieldShah[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> id: BillingNewAddress_LastName]]]>
+    </line>
+    <line>
+      <![CDATA[sendTextToEmailFieldtest2219@gmail.com[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> id: BillingNewAddress_Email]]]>
+    </line>
+    <line>
+      <![CDATA[sendTextToCompanyFieldPassword34[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> id: BillingNewAddress_Company]]]>
+    </line>
+    <line>
+      <![CDATA[sendTextToCityFieldLondon[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //input[@id='BillingNewAddress_City']]]]>
+    </line>
+    <line>
+      <![CDATA[sendTextToAddressLine1Luton Road[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> css selector: #BillingNewAddress_Address1]]]>
+    </line>
+    <line>
+      <![CDATA[sendTextToAddressLine2Luton[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> css selector: #BillingNewAddress_Address2]]]>
+    </line>
+    <line>
+      <![CDATA[sendTextToPostcodeHA9 9AU[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //input[@id='BillingNewAddress_ZipPostalCode']]]]>
+    </line>
+    <line>
+      <![CDATA[sendTextToPhoneNumberField02034343876[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //input[@id='BillingNewAddress_PhoneNumber']]]]>
+    </line>
+    <line>
+      <![CDATA[clickOnContinueButton[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //body/div[6]/div[3]/div[1]/div[1]/div[1]/div[2]/ol[1]/li[1]/div[2]/div[1]/button[4]]]]>
+    </line>
+    <line>
+      <![CDATA[clickOnNextDayAirButton[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //input[@id='shippingoption_1']]]]>
+    </line>
+    <line>
+      <![CDATA[clickOnContinueButtonAgain[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //body/div[6]/div[3]/div[1]/div[1]/div[1]/div[2]/ol[1]/li[3]/div[2]/form[1]/div[2]/button[1]]]]>
+    </line>
+    <line>
+      <![CDATA[clickOnCreditCardButton[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //input[@id='paymentmethod_1']]]]>
+    </line>
+    <line>
+      <![CDATA[selectClickOnContinue1[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //button[@class='button-1 payment-method-next-step-button']]]]>
+    </line>
+    <line>
+      <![CDATA[selectMasterCardFromCreditCardDropdown[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //select[@id='CreditCardType']]]]>
+    </line>
+    <line>
+      <![CDATA[sendTextTOCardHolderName[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> id: CardholderName]]]>
+    </line>
+    <line>
+      <![CDATA[sendTextTOCardNumber[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> id: CardNumber]]]>
+    </line>
+    <line>
+      <![CDATA[sendTextToCardCode[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> id: CardCode]]]>
+    </line>
+    <line>
+      <![CDATA[clickOnContinueButton2[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //button[@class='button-1 payment-info-next-step-button']]]]>
+    </line>
+    <line>
+      <![CDATA[getVerifyText2[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //li[@class='shipping-method']//span[2]]]]>
+    </line>
+    <line>
+      <![CDATA[clickOnConformButton[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //button[@class='button-1 confirm-order-next-step-button']]]]>
+    </line>
+    <line>
+      <![CDATA[getVerifyText4[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //div[@class='page-title']/h1]]]>
+    </line>
+    <line>
+      <![CDATA[getVerifyText5[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //strong[contains(text(),'Your order has been successfully processed!')]]]]>
+    </line>
+    <line>
+      <![CDATA[clickOnContinueButton3[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> css selector: div.master-wrapper-page:nth-child(6) div.master-wrapper-content div.master-column-wrapper div.center-1 div.page.checkout-page.order-completed-page div.page-body.checkout-data div.section.order-completed div.buttons > button.button-1.order-completed-continue-button]]]>
+    </line>
+    <line>
+      <![CDATA[Click to see screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\viren\IdeaProjects\demo.nopcommerce-wk-15-virenpatel/test-output/html/verifyProductAddedToShoppingCartSuccessFullyMon_Dec_12_22_43_10_GMT_2022.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[Click to see screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\viren\IdeaProjects\demo.nopcommerce-wk-15-virenpatel/test-output/html/verifyProductAddedToShoppingCartSuccessFullyMon_Dec_12_22_43_11_GMT_2022.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[mouseHoverOnElectronics[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //body/div[6]/div[2]/ul[1]/li[2]/a[1]]]]>
+    </line>
+    <line>
+      <![CDATA[mouseHoverOnCellPhonesAndClick[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //body/div[6]/div[2]/ul[1]/li[2]/ul[1]/li[2]/a[1]]]]>
+    </line>
+    <line>
+      <![CDATA[verifyTextCellPhones[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //h1[contains(text(),'Cell phones')]]]]>
+    </line>
+    <line>
+      <![CDATA[clickOnListViewTab[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //a[contains(text(),'List')]]]]>
+    </line>
+    <line>
+      <![CDATA[clickOnProductNameNokia[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //img[@alt ='Picture of Nokia Lumia 1020']]]]>
+    </line>
+    <line>
+      <![CDATA[verifyTextNokiaLumia[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //h1[contains(text(),'Nokia Lumia 1020')]]]]>
+    </line>
+    <line>
+      <![CDATA[verifyNokiaPrice[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //span[@id='price-value-20']]]]>
+    </line>
+    <line>
+      <![CDATA[changeQuantityTo22[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> id: product_enteredQuantity_20]]]>
+    </line>
+    <line>
+      <![CDATA[clickOnAddToCart[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //button[@id='add-to-cart-button-20']]]]>
+    </line>
+    <line>
+      <![CDATA[clickOnGreenBar[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //body/div[@id='bar-notification']/div[1]/span[1]]]]>
+    </line>
+    <line>
+      <![CDATA[mouseHoverOnShoppingCart[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //span[contains(text(),'Shopping cart')]]]]>
+    </line>
+    <line>
+      <![CDATA[hoverAndClickOnGoToCart[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //button[contains(text(),'Go to cart')]]]]>
+    </line>
+    <line>
+      <![CDATA[verifyMessageShoppingCart[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //h1[contains(text(),'Shopping cart')]]]]>
+    </line>
+    <line>
+      <![CDATA[verifyQuantity[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //span[contains(text(),'(2)')]]]]>
+    </line>
+    <line>
+      <![CDATA[verifyTotal[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //tbody/tr[1]/td[6]]]]>
+    </line>
+    <line>
+      <![CDATA[clickOnCheckbox[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //input[@id='termsofservice']]]]>
+    </line>
+    <line>
+      <![CDATA[clickOnCheckout[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //button[@id='checkout']]]]>
+    </line>
+    <line>
+      <![CDATA[verifyTextWelcomePlease[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]]]>
+    </line>
+    <line>
+      <![CDATA[clickOnRegister[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //button[contains(text(),'Register')]]]]>
+    </line>
+    <line>
+      <![CDATA[verifyTextRegister[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //h1[contains(text(),'Register')]]]]>
+    </line>
+    <line>
+      <![CDATA[sendTextToFirstNameFieldManan[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> id: FirstName]]]>
+    </line>
+    <line>
+      <![CDATA[sendTextToLastNameFieldShah[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> id: LastName]]]>
+    </line>
+    <line>
+      <![CDATA[sendTextToEmailField1226test@gmail.com[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> id: Email]]]>
+    </line>
+    <line>
+      <![CDATA[sendTextToPasswordField[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //input[@id='Password']]]]>
+    </line>
+    <line>
+      <![CDATA[sendTextToConfirmPasswordField[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //input[@id='ConfirmPassword']]]]>
+    </line>
+    <line>
+      <![CDATA[clickOnRegister1[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> id: register-button]]]>
+    </line>
+    <line>
+      <![CDATA[clickOnContinue[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //a[contains(text(),'Continue')]]]]>
+    </line>
+    <line>
+      <![CDATA[verifyTextShoppingCart[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //h1[contains(text(),'Shopping cart')]]]]>
+    </line>
+    <line>
+      <![CDATA[clickOnCheckbox1[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //input[@id='termsofservice']]]]>
+    </line>
+    <line>
+      <![CDATA[clickOnCheckout1[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //button[@id='checkout']]]]>
+    </line>
+    <line>
+      <![CDATA[countryByVisibleTextUnited Kingdom[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //select[@id='BillingNewAddress_CountryId']]]]>
+    </line>
+    <line>
+      <![CDATA[sendTextToCityLondon[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> id: BillingNewAddress_City]]]>
+    </line>
+    <line>
+      <![CDATA[sendTextToAddressLuton[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> id: BillingNewAddress_Address1]]]>
+    </line>
+    <line>
+      <![CDATA[sendTextToPostelCodeHA8 9HU[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> id: BillingNewAddress_ZipPostalCode]]]>
+    </line>
+    <line>
+      <![CDATA[sendTextToPhoneNumber02088765454[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> id: BillingNewAddress_PhoneNumber]]]>
+    </line>
+    <line>
+      <![CDATA[clickOnContinue1[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //body/div[6]/div[3]/div[1]/div[1]/div[1]/div[2]/ol[1]/li[1]/div[2]/div[1]/button[4]]]]>
+    </line>
+    <line>
+      <![CDATA[clickOn2ndDayAir[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> id: shippingoption_2]]]>
+    </line>
+    <line>
+      <![CDATA[clickOnContinue2[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //body/div[6]/div[3]/div[1]/div[1]/div[1]/div[2]/ol[1]/li[3]/div[2]/form[1]/div[2]/button[1]]]]>
+    </line>
+    <line>
+      <![CDATA[clickOnCreditCard[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> id: paymentmethod_1]]]>
+    </line>
+    <line>
+      <![CDATA[clickOnContinueTab[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //div[@id='payment-method-buttons-container']//button[1]]]]>
+    </line>
+    <line>
+      <![CDATA[clickOnSelectCreditCard[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //input[@value='Payments.Manual']]]]>
+    </line>
+    <line>
+      <![CDATA[sendTextToCardholderName[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> name: CardholderName]]]>
+    </line>
+    <line>
+      <![CDATA[sendTextToCardNumber[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //input[@id='CardNumber']]]]>
+    </line>
+    <line>
+      <![CDATA[sendTextToExpirationMonth[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //select[@id='ExpireMonth']]]]>
+    </line>
+    <line>
+      <![CDATA[sendTextToExpirationYear[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //select[@id='ExpireYear']]]]>
+    </line>
+    <line>
+      <![CDATA[sendTextToCardCode[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> id: CardCode]]]>
+    </line>
+    <line>
+      <![CDATA[clickOnContinue3[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //body/div[6]/div[3]/div[1]/div[1]/div[1]/div[2]/ol[1]/li[5]/div[2]/div[1]/button[1]]]]>
+    </line>
+    <line>
+      <![CDATA[verifyPaymentMethod[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //span[contains(text(),'Credit Card')]]]]>
+    </line>
+    <line>
+      <![CDATA[verifyShoppingMethod[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //span[text()[normalize-space()='2nd Day Air']]]]]>
+    </line>
+    <line>
+      <![CDATA[clickOnConfirm[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //button[contains(text(),'Confirm')]]]]>
+    </line>
+    <line>
+      <![CDATA[verifyTextThankYou[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //h1[contains(text(),'Thank you')]]]]>
+    </line>
+    <line>
+      <![CDATA[verifySuccessfully[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //strong[contains(text(),'Your order has been successfully processed!')]]]]>
+    </line>
+    <line>
+      <![CDATA[clickOnContinue4[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //button[@class='button-1 order-completed-continue-button']]]]>
+    </line>
+    <line>
+      <![CDATA[verifyWelcomeToOurStore[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //h2[contains(text(),'Welcome to our store')]]]]>
+    </line>
+    <line>
+      <![CDATA[clickOnLogout[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //a[contains(text(),'Log out')]]]]>
+    </line>
+    <line>
+      <![CDATA[Click to see screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\viren\IdeaProjects\demo.nopcommerce-wk-15-virenpatel/test-output/html/verifyThatTheProductAddedSuccessfullyAndPlaceOrderSuccessfullyMon_Dec_12_22_43_52_GMT_2022.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[Click to see screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\viren\IdeaProjects\demo.nopcommerce-wk-15-virenpatel/test-output/html/verifyThatTheProductAddedSuccessfullyAndPlaceOrderSuccessfullyMon_Dec_12_22_43_52_GMT_2022.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[mouseHoverOnElectronics[[ChromeDriver: chrome on WINDOWS (48de11ab64f5bf6ae90c5a6a1ffe20ff)] -> xpath: //body/div[6]/div[2]/ul[1]/li[2]/a[1]]]]>
+    </line>
+    <line>
+      <![CDATA[mouseHoverOnCellPhonesAndClick[[ChromeDriver: chrome on WINDOWS (48de11ab64f5bf6ae90c5a6a1ffe20ff)] -> xpath: //body/div[6]/div[2]/ul[1]/li[2]/ul[1]/li[2]/a[1]]]]>
+    </line>
+    <line>
+      <![CDATA[verifyTextCellPhones[[ChromeDriver: chrome on WINDOWS (48de11ab64f5bf6ae90c5a6a1ffe20ff)] -> xpath: //h1[contains(text(),'Cell phones')]]]]>
+    </line>
+    <line>
+      <![CDATA[Click to see screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\viren\IdeaProjects\demo.nopcommerce-wk-15-virenpatel/test-output/html/verifyUserShouldNavigateToCellPhonesPageSuccessfullyMon_Dec_12_22_43_57_GMT_2022.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[Click to see screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\viren\IdeaProjects\demo.nopcommerce-wk-15-virenpatel/test-output/html/verifyUserShouldNavigateToCellPhonesPageSuccessfullyMon_Dec_12_22_43_57_GMT_2022.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[getVerifyElectronics[[ChromeDriver: chrome on WINDOWS (61931ae25813b126bc0b1e86e15b43e7)] -> xpath: //a[@href='/electronics']]]]>
+    </line>
+    <line>
+      <![CDATA[Click to see screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\viren\IdeaProjects\demo.nopcommerce-wk-15-virenpatel/test-output/html/verifyUserShouldNavigateToApparelMon_Dec_12_22_44_02_GMT_2022.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[Click to see screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\viren\IdeaProjects\demo.nopcommerce-wk-15-virenpatel/test-output/html/verifyUserShouldNavigateToApparelMon_Dec_12_22_44_02_GMT_2022.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[getVerifyComputer[[ChromeDriver: chrome on WINDOWS (0539c37f6274019847d9f5ba997bb030)] -> xpath: //a[@href='/computers']]]]>
+    </line>
+    <line>
+      <![CDATA[Click to see screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\viren\IdeaProjects\demo.nopcommerce-wk-15-virenpatel/test-output/html/verifyUserShouldNavigateToComputerMon_Dec_12_22_44_07_GMT_2022.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[Click to see screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\viren\IdeaProjects\demo.nopcommerce-wk-15-virenpatel/test-output/html/verifyUserShouldNavigateToComputerMon_Dec_12_22_44_07_GMT_2022.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[getVerifyElectronics[[ChromeDriver: chrome on WINDOWS (5d9d21eaba3ef36b4b43de42c7ecd0e6)] -> xpath: //a[@href='/electronics']]]]>
+    </line>
+    <line>
+      <![CDATA[Click to see screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\viren\IdeaProjects\demo.nopcommerce-wk-15-virenpatel/test-output/html/verifyUserShouldNavigateToElectronicsMon_Dec_12_22_44_12_GMT_2022.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[Click to see screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target = "_blank" href=C:\Users\viren\IdeaProjects\demo.nopcommerce-wk-15-virenpatel/test-output/html/verifyUserShouldNavigateToElectronicsMon_Dec_12_22_44_13_GMT_2022.jpg>Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+  </reporter-output>
+  <suite name="Test suite" duration-ms="92566" started-at="2022-12-12T22:42:41 GMT" finished-at="2022-12-12T22:44:14 GMT">
+    <groups>
+      <group name="regression">
+        <method signature="ComputerTest.verifyProductArrangeInAlphaBaticalOrder()[pri:0, instance:com.nopcommerce.demo.testsuite.ComputerTest@954b04f]" name="verifyProductArrangeInAlphaBaticalOrder" class="com.nopcommerce.demo.testsuite.ComputerTest"/>
+        <method signature="ComputerTest1.verifyProductAddedToShoppingCartSuccessFully()[pri:0, instance:com.nopcommerce.demo.testsuite.ComputerTest1@6d3af739]" name="verifyProductAddedToShoppingCartSuccessFully" class="com.nopcommerce.demo.testsuite.ComputerTest1"/>
+        <method signature="ElectronicTest.verifyThatTheProductAddedSuccessfullyAndPlaceOrderSuccessfully()[pri:0, instance:com.nopcommerce.demo.testsuite.ElectronicTest@1da51a35]" name="verifyThatTheProductAddedSuccessfullyAndPlaceOrderSuccessfully" class="com.nopcommerce.demo.testsuite.ElectronicTest"/>
+        <method signature="ElectronicTest.verifyUserShouldNavigateToCellPhonesPageSuccessfully()[pri:0, instance:com.nopcommerce.demo.testsuite.ElectronicTest@1da51a35]" name="verifyUserShouldNavigateToCellPhonesPageSuccessfully" class="com.nopcommerce.demo.testsuite.ElectronicTest"/>
+        <method signature="HomePageTest.verifyUserShouldNavigateToApparel()[pri:0, instance:com.nopcommerce.demo.testsuite.HomePageTest@16022d9d]" name="verifyUserShouldNavigateToApparel" class="com.nopcommerce.demo.testsuite.HomePageTest"/>
+        <method signature="HomePageTest.verifyUserShouldNavigateToComputer()[pri:0, instance:com.nopcommerce.demo.testsuite.HomePageTest@16022d9d]" name="verifyUserShouldNavigateToComputer" class="com.nopcommerce.demo.testsuite.HomePageTest"/>
+        <method signature="HomePageTest.verifyUserShouldNavigateToElectronics()[pri:0, instance:com.nopcommerce.demo.testsuite.HomePageTest@16022d9d]" name="verifyUserShouldNavigateToElectronics" class="com.nopcommerce.demo.testsuite.HomePageTest"/>
+      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="ElectronicTest.verifyThatTheProductAddedSuccessfullyAndPlaceOrderSuccessfully()[pri:0, instance:com.nopcommerce.demo.testsuite.ElectronicTest@1da51a35]" name="verifyThatTheProductAddedSuccessfullyAndPlaceOrderSuccessfully" class="com.nopcommerce.demo.testsuite.ElectronicTest"/>
+        <method signature="HomePageTest.verifyUserShouldNavigateToElectronics()[pri:0, instance:com.nopcommerce.demo.testsuite.HomePageTest@16022d9d]" name="verifyUserShouldNavigateToElectronics" class="com.nopcommerce.demo.testsuite.HomePageTest"/>
+      </group> <!-- smoke -->
+      <group name="sanity">
+        <method signature="ComputerTest.verifyProductArrangeInAlphaBaticalOrder()[pri:0, instance:com.nopcommerce.demo.testsuite.ComputerTest@954b04f]" name="verifyProductArrangeInAlphaBaticalOrder" class="com.nopcommerce.demo.testsuite.ComputerTest"/>
+        <method signature="ComputerTest1.verifyProductAddedToShoppingCartSuccessFully()[pri:0, instance:com.nopcommerce.demo.testsuite.ComputerTest1@6d3af739]" name="verifyProductAddedToShoppingCartSuccessFully" class="com.nopcommerce.demo.testsuite.ComputerTest1"/>
+        <method signature="ElectronicTest.verifyUserShouldNavigateToCellPhonesPageSuccessfully()[pri:0, instance:com.nopcommerce.demo.testsuite.ElectronicTest@1da51a35]" name="verifyUserShouldNavigateToCellPhonesPageSuccessfully" class="com.nopcommerce.demo.testsuite.ElectronicTest"/>
+        <method signature="HomePageTest.verifyUserShouldNavigateToComputer()[pri:0, instance:com.nopcommerce.demo.testsuite.HomePageTest@16022d9d]" name="verifyUserShouldNavigateToComputer" class="com.nopcommerce.demo.testsuite.HomePageTest"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test name="MyAccount Test" duration-ms="92566" started-at="2022-12-12T22:42:41 GMT" finished-at="2022-12-12T22:44:14 GMT">
+      <class name="com.nopcommerce.demo.testsuite.ComputerTest1">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.nopcommerce.demo.testsuite.ComputerTest1@6d3af739]" name="setUp" is-config="true" duration-ms="3070" started-at="2022-12-12T22:42:51 GMT" finished-at="2022-12-12T22:42:54 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:com.nopcommerce.demo.testsuite.ComputerTest1@6d3af739]" name="inIt" is-config="true" duration-ms="15" started-at="2022-12-12T22:42:54 GMT" finished-at="2022-12-12T22:42:54 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="PASS" signature="verifyProductAddedToShoppingCartSuccessFully()[pri:0, instance:com.nopcommerce.demo.testsuite.ComputerTest1@6d3af739]" name="verifyProductAddedToShoppingCartSuccessFully" duration-ms="16505" started-at="2022-12-12T22:42:54 GMT" finished-at="2022-12-12T22:43:10 GMT">
+          <reporter-output>
+            <line>
+              <![CDATA[clickOnComputer[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //a[@href='/computers']]]]>
+            </line>
+            <line>
+              <![CDATA[clickOnDesktop[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //h2[@class='title']//a]]]>
+            </line>
+            <line>
+              <![CDATA[getSelectByValue[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //select[@name='products-orderby']]]]>
+            </line>
+            <line>
+              <![CDATA[getVerifyBuildYourOwn[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //h1[contains(text(),'Build your own computer')]]]]>
+            </line>
+            <line>
+              <![CDATA[selectProcessorByValue[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //select[@id='product_attribute_1']]]]>
+            </line>
+            <line>
+              <![CDATA[selectRamByValue[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //select[@id='product_attribute_2']]]]>
+            </line>
+            <line>
+              <![CDATA[clickOnHDD400GB[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //label[text()='400 GB [+$100.00]']]]]>
+            </line>
+            <line>
+              <![CDATA[clickOnOsVistaPremium[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //label[text()='Vista Premium [+$60.00]']]]]>
+            </line>
+            <line>
+              <![CDATA[clickOnSoftwareTotalCommander[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //input[@id='product_attribute_5_12']]]]>
+            </line>
+            <line>
+              <![CDATA[clickOnAddToCartButton[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //button[@id='add-to-cart-button-1']]]]>
+            </line>
+            <line>
+              <![CDATA[verifyCaryMessage[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //body/div[@id='bar-notification']/div[1]/p[1]]]]>
+            </line>
+            <line>
+              <![CDATA[closeMessageBar[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //body/div[@id='bar-notification']/div[1]/span[1]]]]>
+            </line>
+            <line>
+              <![CDATA[mouseHoverOnElementShoppingCart[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //span[contains(text(),'Shopping cart')]]]]>
+            </line>
+            <line>
+              <![CDATA[clickOnGoToCart[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //button[@class='button-1 cart-button']]]]>
+            </line>
+            <line>
+              <![CDATA[sendTextToQuantityField[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //input[@value='1']]]]>
+            </line>
+            <line>
+              <![CDATA[clickOnUpdateShoppingCartButton[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //button[@id='updatecart']]]]>
+            </line>
+            <line>
+              <![CDATA[clickOnCheckBoxIAgreeWithTermsAndCondition[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //input[@id='termsofservice']]]]>
+            </line>
+            <line>
+              <![CDATA[clickOnCheckOutButton[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //button[@id='checkout']]]]>
+            </line>
+            <line>
+              <![CDATA[clickOnCheckOutAsGuest[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //button[contains(text(),'Checkout as Guest')]]]]>
+            </line>
+            <line>
+              <![CDATA[sendTextToFirstNameFieldManan[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> id: BillingNewAddress_FirstName]]]>
+            </line>
+            <line>
+              <![CDATA[sendTextToLastNameFieldShah[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> id: BillingNewAddress_LastName]]]>
+            </line>
+            <line>
+              <![CDATA[sendTextToEmailFieldtest2219@gmail.com[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> id: BillingNewAddress_Email]]]>
+            </line>
+            <line>
+              <![CDATA[sendTextToCompanyFieldPassword34[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> id: BillingNewAddress_Company]]]>
+            </line>
+            <line>
+              <![CDATA[sendTextToCityFieldLondon[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //input[@id='BillingNewAddress_City']]]]>
+            </line>
+            <line>
+              <![CDATA[sendTextToAddressLine1Luton Road[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> css selector: #BillingNewAddress_Address1]]]>
+            </line>
+            <line>
+              <![CDATA[sendTextToAddressLine2Luton[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> css selector: #BillingNewAddress_Address2]]]>
+            </line>
+            <line>
+              <![CDATA[sendTextToPostcodeHA9 9AU[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //input[@id='BillingNewAddress_ZipPostalCode']]]]>
+            </line>
+            <line>
+              <![CDATA[sendTextToPhoneNumberField02034343876[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //input[@id='BillingNewAddress_PhoneNumber']]]]>
+            </line>
+            <line>
+              <![CDATA[clickOnContinueButton[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //body/div[6]/div[3]/div[1]/div[1]/div[1]/div[2]/ol[1]/li[1]/div[2]/div[1]/button[4]]]]>
+            </line>
+            <line>
+              <![CDATA[clickOnNextDayAirButton[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //input[@id='shippingoption_1']]]]>
+            </line>
+            <line>
+              <![CDATA[clickOnContinueButtonAgain[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //body/div[6]/div[3]/div[1]/div[1]/div[1]/div[2]/ol[1]/li[3]/div[2]/form[1]/div[2]/button[1]]]]>
+            </line>
+            <line>
+              <![CDATA[clickOnCreditCardButton[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //input[@id='paymentmethod_1']]]]>
+            </line>
+            <line>
+              <![CDATA[selectClickOnContinue1[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //button[@class='button-1 payment-method-next-step-button']]]]>
+            </line>
+            <line>
+              <![CDATA[selectMasterCardFromCreditCardDropdown[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //select[@id='CreditCardType']]]]>
+            </line>
+            <line>
+              <![CDATA[sendTextTOCardHolderName[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> id: CardholderName]]]>
+            </line>
+            <line>
+              <![CDATA[sendTextTOCardNumber[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> id: CardNumber]]]>
+            </line>
+            <line>
+              <![CDATA[sendTextToCardCode[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> id: CardCode]]]>
+            </line>
+            <line>
+              <![CDATA[clickOnContinueButton2[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //button[@class='button-1 payment-info-next-step-button']]]]>
+            </line>
+            <line>
+              <![CDATA[getVerifyText2[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //li[@class='shipping-method']//span[2]]]]>
+            </line>
+            <line>
+              <![CDATA[clickOnConformButton[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //button[@class='button-1 confirm-order-next-step-button']]]]>
+            </line>
+            <line>
+              <![CDATA[getVerifyText4[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //div[@class='page-title']/h1]]]>
+            </line>
+            <line>
+              <![CDATA[getVerifyText5[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> xpath: //strong[contains(text(),'Your order has been successfully processed!')]]]]>
+            </line>
+            <line>
+              <![CDATA[clickOnContinueButton3[[ChromeDriver: chrome on WINDOWS (12380d37d9be6d15c4e89af0bb10836a)] -> css selector: div.master-wrapper-page:nth-child(6) div.master-wrapper-content div.master-column-wrapper div.center-1 div.page.checkout-page.order-completed-page div.page-body.checkout-data div.section.order-completed div.buttons > button.button-1.order-completed-continue-button]]]>
+            </line>
+            <line>
+              <![CDATA[Click to see screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\viren\IdeaProjects\demo.nopcommerce-wk-15-virenpatel/test-output/html/verifyProductAddedToShoppingCartSuccessFullyMon_Dec_12_22_43_10_GMT_2022.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[Click to see screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\viren\IdeaProjects\demo.nopcommerce-wk-15-virenpatel/test-output/html/verifyProductAddedToShoppingCartSuccessFullyMon_Dec_12_22_43_11_GMT_2022.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyProductAddedToShoppingCartSuccessFully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nopcommerce.demo.testsuite.ComputerTest1@6d3af739]" name="tearDown" is-config="true" duration-ms="669" started-at="2022-12-12T22:43:11 GMT" finished-at="2022-12-12T22:43:11 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.nopcommerce.demo.testsuite.ComputerTest1 -->
+      <class name="com.nopcommerce.demo.testsuite.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.nopcommerce.demo.testsuite.HomePageTest@16022d9d]" name="setUp" is-config="true" duration-ms="2919" started-at="2022-12-12T22:43:58 GMT" finished-at="2022-12-12T22:44:01 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:com.nopcommerce.demo.testsuite.HomePageTest@16022d9d]" name="inIt" is-config="true" duration-ms="1" started-at="2022-12-12T22:44:01 GMT" finished-at="2022-12-12T22:44:01 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="PASS" signature="verifyUserShouldNavigateToApparel()[pri:0, instance:com.nopcommerce.demo.testsuite.HomePageTest@16022d9d]" name="verifyUserShouldNavigateToApparel" duration-ms="711" started-at="2022-12-12T22:44:01 GMT" finished-at="2022-12-12T22:44:01 GMT">
+          <reporter-output>
+            <line>
+              <![CDATA[getVerifyElectronics[[ChromeDriver: chrome on WINDOWS (61931ae25813b126bc0b1e86e15b43e7)] -> xpath: //a[@href='/electronics']]]]>
+            </line>
+            <line>
+              <![CDATA[Click to see screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\viren\IdeaProjects\demo.nopcommerce-wk-15-virenpatel/test-output/html/verifyUserShouldNavigateToApparelMon_Dec_12_22_44_02_GMT_2022.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[Click to see screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\viren\IdeaProjects\demo.nopcommerce-wk-15-virenpatel/test-output/html/verifyUserShouldNavigateToApparelMon_Dec_12_22_44_02_GMT_2022.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyUserShouldNavigateToApparel -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nopcommerce.demo.testsuite.HomePageTest@16022d9d]" name="tearDown" is-config="true" duration-ms="832" started-at="2022-12-12T22:44:02 GMT" finished-at="2022-12-12T22:44:03 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.nopcommerce.demo.testsuite.HomePageTest@16022d9d]" name="setUp" is-config="true" duration-ms="2544" started-at="2022-12-12T22:44:03 GMT" finished-at="2022-12-12T22:44:06 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:com.nopcommerce.demo.testsuite.HomePageTest@16022d9d]" name="inIt" is-config="true" duration-ms="1" started-at="2022-12-12T22:44:06 GMT" finished-at="2022-12-12T22:44:06 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="PASS" signature="verifyUserShouldNavigateToComputer()[pri:0, instance:com.nopcommerce.demo.testsuite.HomePageTest@16022d9d]" name="verifyUserShouldNavigateToComputer" duration-ms="1209" started-at="2022-12-12T22:44:06 GMT" finished-at="2022-12-12T22:44:07 GMT">
+          <reporter-output>
+            <line>
+              <![CDATA[getVerifyComputer[[ChromeDriver: chrome on WINDOWS (0539c37f6274019847d9f5ba997bb030)] -> xpath: //a[@href='/computers']]]]>
+            </line>
+            <line>
+              <![CDATA[Click to see screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\viren\IdeaProjects\demo.nopcommerce-wk-15-virenpatel/test-output/html/verifyUserShouldNavigateToComputerMon_Dec_12_22_44_07_GMT_2022.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[Click to see screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\viren\IdeaProjects\demo.nopcommerce-wk-15-virenpatel/test-output/html/verifyUserShouldNavigateToComputerMon_Dec_12_22_44_07_GMT_2022.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyUserShouldNavigateToComputer -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nopcommerce.demo.testsuite.HomePageTest@16022d9d]" name="tearDown" is-config="true" duration-ms="699" started-at="2022-12-12T22:44:07 GMT" finished-at="2022-12-12T22:44:08 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.nopcommerce.demo.testsuite.HomePageTest@16022d9d]" name="setUp" is-config="true" duration-ms="2849" started-at="2022-12-12T22:44:08 GMT" finished-at="2022-12-12T22:44:11 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyUserShouldNavigateToElectronics()[pri:0, instance:com.nopcommerce.demo.testsuite.HomePageTest@16022d9d]" name="verifyUserShouldNavigateToElectronics" duration-ms="1181" started-at="2022-12-12T22:44:11 GMT" finished-at="2022-12-12T22:44:12 GMT">
+          <reporter-output>
+            <line>
+              <![CDATA[getVerifyElectronics[[ChromeDriver: chrome on WINDOWS (5d9d21eaba3ef36b4b43de42c7ecd0e6)] -> xpath: //a[@href='/electronics']]]]>
+            </line>
+            <line>
+              <![CDATA[Click to see screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\viren\IdeaProjects\demo.nopcommerce-wk-15-virenpatel/test-output/html/verifyUserShouldNavigateToElectronicsMon_Dec_12_22_44_12_GMT_2022.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[Click to see screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\viren\IdeaProjects\demo.nopcommerce-wk-15-virenpatel/test-output/html/verifyUserShouldNavigateToElectronicsMon_Dec_12_22_44_13_GMT_2022.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyUserShouldNavigateToElectronics -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:com.nopcommerce.demo.testsuite.HomePageTest@16022d9d]" name="inIt" is-config="true" duration-ms="0" started-at="2022-12-12T22:44:11 GMT" finished-at="2022-12-12T22:44:11 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nopcommerce.demo.testsuite.HomePageTest@16022d9d]" name="tearDown" is-config="true" duration-ms="768" started-at="2022-12-12T22:44:13 GMT" finished-at="2022-12-12T22:44:14 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.nopcommerce.demo.testsuite.HomePageTest -->
+      <class name="com.nopcommerce.demo.testsuite.ComputerTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.nopcommerce.demo.testsuite.ComputerTest@954b04f]" name="setUp" is-config="true" duration-ms="5690" started-at="2022-12-12T22:42:42 GMT" finished-at="2022-12-12T22:42:47 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:com.nopcommerce.demo.testsuite.ComputerTest@954b04f]" name="inIt" is-config="true" duration-ms="53" started-at="2022-12-12T22:42:47 GMT" finished-at="2022-12-12T22:42:47 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="PASS" signature="verifyProductArrangeInAlphaBaticalOrder()[pri:0, instance:com.nopcommerce.demo.testsuite.ComputerTest@954b04f]" name="verifyProductArrangeInAlphaBaticalOrder" duration-ms="1602" started-at="2022-12-12T22:42:47 GMT" finished-at="2022-12-12T22:42:49 GMT">
+          <reporter-output>
+            <line>
+              <![CDATA[clickOnComputer[[ChromeDriver: chrome on WINDOWS (721835345db93aab9b340beb0a939030)] -> xpath: //a[@href='/computers']]]]>
+            </line>
+            <line>
+              <![CDATA[clickOnDesktop[[ChromeDriver: chrome on WINDOWS (721835345db93aab9b340beb0a939030)] -> xpath: //h2[@class='title']//a]]]>
+            </line>
+            <line>
+              <![CDATA[Click to see screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\viren\IdeaProjects\demo.nopcommerce-wk-15-virenpatel/test-output/html/verifyProductArrangeInAlphaBaticalOrderMon_Dec_12_22_42_49_GMT_2022.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[Click to see screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\viren\IdeaProjects\demo.nopcommerce-wk-15-virenpatel/test-output/html/verifyProductArrangeInAlphaBaticalOrderMon_Dec_12_22_42_50_GMT_2022.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyProductArrangeInAlphaBaticalOrder -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nopcommerce.demo.testsuite.ComputerTest@954b04f]" name="tearDown" is-config="true" duration-ms="910" started-at="2022-12-12T22:42:50 GMT" finished-at="2022-12-12T22:42:51 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.nopcommerce.demo.testsuite.ComputerTest -->
+      <class name="com.nopcommerce.demo.testsuite.ElectronicTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.nopcommerce.demo.testsuite.ElectronicTest@1da51a35]" name="setUp" is-config="true" duration-ms="3323" started-at="2022-12-12T22:43:11 GMT" finished-at="2022-12-12T22:43:15 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:com.nopcommerce.demo.testsuite.ElectronicTest@1da51a35]" name="inIt" is-config="true" duration-ms="11" started-at="2022-12-12T22:43:15 GMT" finished-at="2022-12-12T22:43:15 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="PASS" signature="verifyThatTheProductAddedSuccessfullyAndPlaceOrderSuccessfully()[pri:0, instance:com.nopcommerce.demo.testsuite.ElectronicTest@1da51a35]" name="verifyThatTheProductAddedSuccessfullyAndPlaceOrderSuccessfully" duration-ms="36565" started-at="2022-12-12T22:43:15 GMT" finished-at="2022-12-12T22:43:51 GMT">
+          <reporter-output>
+            <line>
+              <![CDATA[mouseHoverOnElectronics[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //body/div[6]/div[2]/ul[1]/li[2]/a[1]]]]>
+            </line>
+            <line>
+              <![CDATA[mouseHoverOnCellPhonesAndClick[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //body/div[6]/div[2]/ul[1]/li[2]/ul[1]/li[2]/a[1]]]]>
+            </line>
+            <line>
+              <![CDATA[verifyTextCellPhones[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //h1[contains(text(),'Cell phones')]]]]>
+            </line>
+            <line>
+              <![CDATA[clickOnListViewTab[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //a[contains(text(),'List')]]]]>
+            </line>
+            <line>
+              <![CDATA[clickOnProductNameNokia[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //img[@alt ='Picture of Nokia Lumia 1020']]]]>
+            </line>
+            <line>
+              <![CDATA[verifyTextNokiaLumia[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //h1[contains(text(),'Nokia Lumia 1020')]]]]>
+            </line>
+            <line>
+              <![CDATA[verifyNokiaPrice[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //span[@id='price-value-20']]]]>
+            </line>
+            <line>
+              <![CDATA[changeQuantityTo22[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> id: product_enteredQuantity_20]]]>
+            </line>
+            <line>
+              <![CDATA[clickOnAddToCart[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //button[@id='add-to-cart-button-20']]]]>
+            </line>
+            <line>
+              <![CDATA[clickOnGreenBar[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //body/div[@id='bar-notification']/div[1]/span[1]]]]>
+            </line>
+            <line>
+              <![CDATA[mouseHoverOnShoppingCart[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //span[contains(text(),'Shopping cart')]]]]>
+            </line>
+            <line>
+              <![CDATA[hoverAndClickOnGoToCart[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //button[contains(text(),'Go to cart')]]]]>
+            </line>
+            <line>
+              <![CDATA[verifyMessageShoppingCart[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //h1[contains(text(),'Shopping cart')]]]]>
+            </line>
+            <line>
+              <![CDATA[verifyQuantity[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //span[contains(text(),'(2)')]]]]>
+            </line>
+            <line>
+              <![CDATA[verifyTotal[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //tbody/tr[1]/td[6]]]]>
+            </line>
+            <line>
+              <![CDATA[clickOnCheckbox[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //input[@id='termsofservice']]]]>
+            </line>
+            <line>
+              <![CDATA[clickOnCheckout[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //button[@id='checkout']]]]>
+            </line>
+            <line>
+              <![CDATA[verifyTextWelcomePlease[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]]]>
+            </line>
+            <line>
+              <![CDATA[clickOnRegister[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //button[contains(text(),'Register')]]]]>
+            </line>
+            <line>
+              <![CDATA[verifyTextRegister[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //h1[contains(text(),'Register')]]]]>
+            </line>
+            <line>
+              <![CDATA[sendTextToFirstNameFieldManan[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> id: FirstName]]]>
+            </line>
+            <line>
+              <![CDATA[sendTextToLastNameFieldShah[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> id: LastName]]]>
+            </line>
+            <line>
+              <![CDATA[sendTextToEmailField1226test@gmail.com[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> id: Email]]]>
+            </line>
+            <line>
+              <![CDATA[sendTextToPasswordField[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //input[@id='Password']]]]>
+            </line>
+            <line>
+              <![CDATA[sendTextToConfirmPasswordField[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //input[@id='ConfirmPassword']]]]>
+            </line>
+            <line>
+              <![CDATA[clickOnRegister1[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> id: register-button]]]>
+            </line>
+            <line>
+              <![CDATA[clickOnContinue[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //a[contains(text(),'Continue')]]]]>
+            </line>
+            <line>
+              <![CDATA[verifyTextShoppingCart[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //h1[contains(text(),'Shopping cart')]]]]>
+            </line>
+            <line>
+              <![CDATA[clickOnCheckbox1[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //input[@id='termsofservice']]]]>
+            </line>
+            <line>
+              <![CDATA[clickOnCheckout1[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //button[@id='checkout']]]]>
+            </line>
+            <line>
+              <![CDATA[countryByVisibleTextUnited Kingdom[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //select[@id='BillingNewAddress_CountryId']]]]>
+            </line>
+            <line>
+              <![CDATA[sendTextToCityLondon[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> id: BillingNewAddress_City]]]>
+            </line>
+            <line>
+              <![CDATA[sendTextToAddressLuton[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> id: BillingNewAddress_Address1]]]>
+            </line>
+            <line>
+              <![CDATA[sendTextToPostelCodeHA8 9HU[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> id: BillingNewAddress_ZipPostalCode]]]>
+            </line>
+            <line>
+              <![CDATA[sendTextToPhoneNumber02088765454[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> id: BillingNewAddress_PhoneNumber]]]>
+            </line>
+            <line>
+              <![CDATA[clickOnContinue1[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //body/div[6]/div[3]/div[1]/div[1]/div[1]/div[2]/ol[1]/li[1]/div[2]/div[1]/button[4]]]]>
+            </line>
+            <line>
+              <![CDATA[clickOn2ndDayAir[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> id: shippingoption_2]]]>
+            </line>
+            <line>
+              <![CDATA[clickOnContinue2[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //body/div[6]/div[3]/div[1]/div[1]/div[1]/div[2]/ol[1]/li[3]/div[2]/form[1]/div[2]/button[1]]]]>
+            </line>
+            <line>
+              <![CDATA[clickOnCreditCard[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> id: paymentmethod_1]]]>
+            </line>
+            <line>
+              <![CDATA[clickOnContinueTab[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //div[@id='payment-method-buttons-container']//button[1]]]]>
+            </line>
+            <line>
+              <![CDATA[clickOnSelectCreditCard[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //input[@value='Payments.Manual']]]]>
+            </line>
+            <line>
+              <![CDATA[sendTextToCardholderName[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> name: CardholderName]]]>
+            </line>
+            <line>
+              <![CDATA[sendTextToCardNumber[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //input[@id='CardNumber']]]]>
+            </line>
+            <line>
+              <![CDATA[sendTextToExpirationMonth[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //select[@id='ExpireMonth']]]]>
+            </line>
+            <line>
+              <![CDATA[sendTextToExpirationYear[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //select[@id='ExpireYear']]]]>
+            </line>
+            <line>
+              <![CDATA[sendTextToCardCode[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> id: CardCode]]]>
+            </line>
+            <line>
+              <![CDATA[clickOnContinue3[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //body/div[6]/div[3]/div[1]/div[1]/div[1]/div[2]/ol[1]/li[5]/div[2]/div[1]/button[1]]]]>
+            </line>
+            <line>
+              <![CDATA[verifyPaymentMethod[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //span[contains(text(),'Credit Card')]]]]>
+            </line>
+            <line>
+              <![CDATA[verifyShoppingMethod[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //span[text()[normalize-space()='2nd Day Air']]]]]>
+            </line>
+            <line>
+              <![CDATA[clickOnConfirm[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //button[contains(text(),'Confirm')]]]]>
+            </line>
+            <line>
+              <![CDATA[verifyTextThankYou[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //h1[contains(text(),'Thank you')]]]]>
+            </line>
+            <line>
+              <![CDATA[verifySuccessfully[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //strong[contains(text(),'Your order has been successfully processed!')]]]]>
+            </line>
+            <line>
+              <![CDATA[clickOnContinue4[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //button[@class='button-1 order-completed-continue-button']]]]>
+            </line>
+            <line>
+              <![CDATA[verifyWelcomeToOurStore[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //h2[contains(text(),'Welcome to our store')]]]]>
+            </line>
+            <line>
+              <![CDATA[clickOnLogout[[ChromeDriver: chrome on WINDOWS (8aa2b1b899d125e74f946aa16faec0c1)] -> xpath: //a[contains(text(),'Log out')]]]]>
+            </line>
+            <line>
+              <![CDATA[Click to see screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\viren\IdeaProjects\demo.nopcommerce-wk-15-virenpatel/test-output/html/verifyThatTheProductAddedSuccessfullyAndPlaceOrderSuccessfullyMon_Dec_12_22_43_52_GMT_2022.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[Click to see screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\viren\IdeaProjects\demo.nopcommerce-wk-15-virenpatel/test-output/html/verifyThatTheProductAddedSuccessfullyAndPlaceOrderSuccessfullyMon_Dec_12_22_43_52_GMT_2022.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyThatTheProductAddedSuccessfullyAndPlaceOrderSuccessfully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nopcommerce.demo.testsuite.ElectronicTest@1da51a35]" name="tearDown" is-config="true" duration-ms="692" started-at="2022-12-12T22:43:52 GMT" finished-at="2022-12-12T22:43:53 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.nopcommerce.demo.testsuite.ElectronicTest@1da51a35]" name="setUp" is-config="true" duration-ms="2640" started-at="2022-12-12T22:43:53 GMT" finished-at="2022-12-12T22:43:55 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:com.nopcommerce.demo.testsuite.ElectronicTest@1da51a35]" name="inIt" is-config="true" duration-ms="6" started-at="2022-12-12T22:43:55 GMT" finished-at="2022-12-12T22:43:55 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="PASS" signature="verifyUserShouldNavigateToCellPhonesPageSuccessfully()[pri:0, instance:com.nopcommerce.demo.testsuite.ElectronicTest@1da51a35]" name="verifyUserShouldNavigateToCellPhonesPageSuccessfully" duration-ms="923" started-at="2022-12-12T22:43:55 GMT" finished-at="2022-12-12T22:43:56 GMT">
+          <reporter-output>
+            <line>
+              <![CDATA[mouseHoverOnElectronics[[ChromeDriver: chrome on WINDOWS (48de11ab64f5bf6ae90c5a6a1ffe20ff)] -> xpath: //body/div[6]/div[2]/ul[1]/li[2]/a[1]]]]>
+            </line>
+            <line>
+              <![CDATA[mouseHoverOnCellPhonesAndClick[[ChromeDriver: chrome on WINDOWS (48de11ab64f5bf6ae90c5a6a1ffe20ff)] -> xpath: //body/div[6]/div[2]/ul[1]/li[2]/ul[1]/li[2]/a[1]]]]>
+            </line>
+            <line>
+              <![CDATA[verifyTextCellPhones[[ChromeDriver: chrome on WINDOWS (48de11ab64f5bf6ae90c5a6a1ffe20ff)] -> xpath: //h1[contains(text(),'Cell phones')]]]]>
+            </line>
+            <line>
+              <![CDATA[Click to see screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\viren\IdeaProjects\demo.nopcommerce-wk-15-virenpatel/test-output/html/verifyUserShouldNavigateToCellPhonesPageSuccessfullyMon_Dec_12_22_43_57_GMT_2022.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[Click to see screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target = "_blank" href=C:\Users\viren\IdeaProjects\demo.nopcommerce-wk-15-virenpatel/test-output/html/verifyUserShouldNavigateToCellPhonesPageSuccessfullyMon_Dec_12_22_43_57_GMT_2022.jpg>Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyUserShouldNavigateToCellPhonesPageSuccessfully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nopcommerce.demo.testsuite.ElectronicTest@1da51a35]" name="tearDown" is-config="true" duration-ms="812" started-at="2022-12-12T22:43:57 GMT" finished-at="2022-12-12T22:43:58 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.nopcommerce.demo.testsuite.ElectronicTest -->
+    </test> <!-- MyAccount Test -->
+  </suite> <!-- Test suite -->
+</testng-results>
